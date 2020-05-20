@@ -1,0 +1,11 @@
+D:\northwind\northwind\bin\Debug\northwindDesktop.exe.config
+D:\northwind\northwind\obj\Debug\northwindDesktop.exe
+D:\northwind\northwind\obj\Debug\northwindDesktop.pdb
+D:\northwind\northwind\bin\Debug\northwindDesktop.exe
+D:\northwind\northwind\bin\Debug\northwindDesktop.pdb
+D:\northwind\northwind\obj\Debug\northwind.csprojResolveAssemblyReference.cache
+D:\northwind\northwind\obj\Debug\northwindDesktop.FrmCustomer.resources
+D:\northwind\northwind\obj\Debug\northwindDesktop.FrmRegistrarCustomer.resources
+D:\northwind\northwind\obj\Debug\northwindDesktop.MenuPrincipal.resources
+D:\northwind\northwind\obj\Debug\northwindDesktop.Properties.Resources.resources
+D:\northwind\northwind\obj\Debug\northwind.csproj.GenerateResource.Cache
